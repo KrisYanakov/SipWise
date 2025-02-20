@@ -1,0 +1,15 @@
+
+#hero{
+    font-family: "Noto Serif", serif;
+}
+#book_button:hover{
+    color:black
+}
+#book_button:active{
+    color: black;
+    background-color: white;
+}
+
+#featured-3{
+    font-family: "Noto Serif", serif;
+}
